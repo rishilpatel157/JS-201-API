@@ -1,0 +1,24 @@
+{
+  "name": "js-201-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishilpatel157/JS-201-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishilpatel157/JS-201-API/issues"
+  },
+  "homepage": "https://github.com/rishilpatel157/JS-201-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
